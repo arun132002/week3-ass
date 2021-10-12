@@ -17,6 +17,9 @@ margin-top: 5px;
     width: 100vw;
     text-align: center;
 }
+#navbarSupportedContent .nav-item{
+border: 2px solid black;
+}
 
 .navbar-brand{
     font-size: 30px;
